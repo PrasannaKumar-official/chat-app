@@ -9,4 +9,10 @@ npm i dotenv@16.4.7 cookie-parser@1.4.7
 nodemon src/server.js   ---- go to package.jsonn file in the script
 
 
+npm run build ------- ready and optimised for production
 
+
+-----------------------------------------
+
+npm run build
+npm run start
